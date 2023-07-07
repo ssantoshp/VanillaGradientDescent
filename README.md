@@ -1,2 +1,3 @@
-# VanillaGradientDescent
-Vanilla implementation of Gradient Descent under 100 lines
+# Vanilla Gradient Descent (3 dimensional)
+`GradientDescentFromScratch.py` includes a Plotly visualization
+
